@@ -1,20 +1,15 @@
 <h1 align="center">✨ Bienvenido a mi Perfil ✨</h1>
 <h3 align="center">Mi nombre es Ailen Garcia y soy desarrolladora BackEnd</h3>
 <br></br>
-<p align="center">
-- 👨‍💻 Actualmente estoy aprendiendo **Python y C#**
+<p align="center"> - 👨‍💻 Actualmente estoy aprendiendo **Python y C#**  </p>
+<p align="center"> - 🔥 Mi lenguaje de programación principal es **Java**  </p>
+<p align="center"> - 🤝 También tengo conocimiento en **Javascript y React**  </p>
 
-- 🔥 Mi lenguaje de programación principal es **Java**
-
-- 🤝 También tengo conocimiento en **Javascript y React**
-  </p>
 <br></br>
 
-<h3 align="left">Connect with me:</h3>
-**email: ailenoicor15@gmail.com
-Linkedin: https://www.linkedin.com/in/ailen-garcia-74b5a424a/**
-<p align="left">
-</p>
+<h3 align="center">Connect with me:</h3>
+<p align="center"> **email: ailenoicor15@gmail.com** </p>
+<p align="center"> **Linkedin: https://www.linkedin.com/in/ailen-garcia-74b5a424a/** </p>
 <br></br>
 
 <h3 align="left">Languages and Tools:</h3>
