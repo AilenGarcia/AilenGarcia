@@ -8,8 +8,8 @@
 <br></br>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"> **email: ailenoicor15@gmail.com** </p>
-<p align="center"> **Linkedin: https://www.linkedin.com/in/ailen-garcia-74b5a424a/** </p>
+<p align="center"> <b>email:</b> ailenoicor15@gmail.com</p>
+<p align="center"> <b>Linkedin:</b> https://www.linkedin.com/in/ailen-garcia-74b5a424a/ </p>
 <br></br>
 
 <h3 align="left">Languages and Tools:</h3>
