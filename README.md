@@ -2,7 +2,6 @@
 <h3 align="center">Mi nombre es Ailen Garcia y soy desarrolladora BackEnd</h3>
 
 <p align="center"> - 🔥 Mi lenguaje de programación principal es <b>Java</b>  </p>
-<p align="center"> - 👨‍💻 Actualmente estoy aprendiendo <b>Go</b> </p>
 <p align="center"> - 🤝 También tengo conocimiento en <b>Javascript y <b>React</b>  </p>
   
 <br>
