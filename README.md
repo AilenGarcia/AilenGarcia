@@ -7,7 +7,7 @@
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <b>email:</b> ailenoicor15@gmail.com</p>
-<p align="center"> <b>Linkedin:</b> https://www.linkedin.com/in/ailen-garcia-74b5a424a/ </p>
+<p align="center"> <b>Linkedin:</b> https://www.linkedin.com/in/ailenrociogarcia </p>
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
